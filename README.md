@@ -1,7 +1,7 @@
 # tmux-mpd
  🎵 A dead simple script for MPD status in your tmux bar
 ## Requirements
-The requirements are nothing you shouldn't already have - bash, sed, grep, cut, and mpc - chances are if you're on any modern Linux distribution, you'll only need to install mpc to get this functioning.
+The requirements are nothing you shouldn't already have - bash, sed, grep, cut, tr, and mpc - chances are if you're on any modern Linux distribution, you'll only need to install mpc to get this functioning.
 ## Installation and Usage
 Move the bash script to your path, make sure it's executable (`chmod +x tmux-mpd`) and congratulations - you've got the module installed.
 
